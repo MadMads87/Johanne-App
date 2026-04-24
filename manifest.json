@@ -1,0 +1,22 @@
+{
+  "name": "Johanne sin TV tid",
+  "short_name": "Johanne TV",
+  "start_url": "./JohanneApp.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#08080d",
+  "theme_color": "#08080d",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
