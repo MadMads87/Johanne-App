@@ -1,8 +1,8 @@
 {
   "name": "Johanne sin TV tid",
   "short_name": "Johanne TV",
-  "start_url": "./JohanneApp.html",
-  "scope": "./",
+  "start_url": "/Johanne-App/",
+  "scope": "/Johanne-App/",
   "display": "standalone",
   "background_color": "#08080d",
   "theme_color": "#08080d",
